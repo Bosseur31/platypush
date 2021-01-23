@@ -8,6 +8,27 @@ Platypush
 [![Last Commit](https://img.shields.io/github/last-commit/BlackLight/platypush.svg)](https://github.com/BlackLight/platypush/commits/master)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/BlackLight/platypush/issues)
 
+---
+
+NOTE
+----
+
+**<mark>This project has been moved</mark> to a [self-hosted Gitlab instance](https://git.platypush.tech/platypush/platypush)**.
+
+GitHub is no longer the safe haven for developers that it used to be before being acquired by Microsoft
+([exhibit 1](https://itsfoss.com/youtube-dl-github-takedown/), [exhibit 2](https://github.com/github/dmca/blob/master/2021/01/2021-01-14-mpa.md),
+[exhibit 3](https://www.theverge.com/2021/1/15/22232766/github-employees-protest-jewish-employee-firing-warn-nazi)).
+
+I don't feel comfortable anymore hosting my projects on a website that could take them down overnight after a DMCA complaint,
+or managed by a company that doesn't support those who denounce political extremism. Most importantly, I can't let them
+get away anymore with their most macroscopic internal contradiction - they are probably the largest portal for open-source
+code on the Internet, but their own source code has never been published.
+
+<mark>The repo will remain accessible on Github, but no new commits will be published and all new activities and issues are
+going to happen on the new domain.</mark>
+
+---
+
 - Advised read: [**Getting started with Platypush**](https://medium.com/@automationguru/automate-your-house-your-life-and-everything-else-around-with-platypush-dba1cd13e3f6) (Medium article).
 
 - The [wiki](https://github.com/BlackLight/platypush/wiki) also contains many resources on getting started.
